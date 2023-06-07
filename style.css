@@ -47,9 +47,11 @@ section{
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
-    padding-left: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
     font-family: var(--fonteHandwrite);
     font-size: 3.5vw;
+    text-align: justify;
 }
 section.fundoBranco{
     background-color: white;
