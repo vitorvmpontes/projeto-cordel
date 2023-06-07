@@ -44,7 +44,6 @@ header > p > a:hover{
     text-decoration: underline;
 }
 section{
-    text-align: left;
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
